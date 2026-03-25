@@ -34,6 +34,6 @@ birbaşa inteqrasiya üçün nəzərdə tutulub.
 ### 1️⃣ Clone repository
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/samirtaghiyevv/restaurant-backend.git
 cd restaurant-backend
 npm install
